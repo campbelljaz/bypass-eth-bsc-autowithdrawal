@@ -1,4 +1,4 @@
-# Bypass-autowithdrawal
+# Bypass-autowithdrawal/Sweeper
 ## **Bypassing autowithdrawal bot in all network...**
 
 >**Withdrawal of any ERC-20 tokens bypassing auto-withdrawal.**
