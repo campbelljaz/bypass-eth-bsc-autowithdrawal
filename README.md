@@ -13,7 +13,7 @@
 >**NFT withdrawal bypassing auto-withdrawal.**
 
 If there is an unknown wallet with Airdrop or Staking tokens
-you can give me and I will show you staking, Airdrop, tokens, Nft.
+you can give me and I will withdraw you staking, Airdrop, tokens, Nft.
 
 
 **TELEGRAM: @Oscar_load**
