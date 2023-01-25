@@ -15,5 +15,7 @@
 If there is an unknown wallet with Airdrop or Staking tokens
 you can give me and I will withdraw you staking, Airdrop, tokens, Nft.
 
+No TRON MULTISIG ALLOW
+
 
 **TELEGRAM: @Oscar_load**
