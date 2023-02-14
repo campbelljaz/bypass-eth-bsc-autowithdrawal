@@ -1,4 +1,4 @@
-# Bypass-autowithdrawal/Sweeper
+# Bypass-autowithdrawal
 ## **Bypassing autowithdrawal bot in all network...**
 
 >**Withdrawal of any ERC-20 tokens bypassing auto-withdrawal.**
@@ -15,7 +15,7 @@
 If there is an unknown wallet with Airdrop or Staking tokens
 you can give me and I will withdraw you staking, Airdrop, tokens, Nft.
 
-DONT WORRY ABOUT THOSE POWERFUL AUTOWITHDRAWAL BOT
+DONT WORRY ABOUT THOSE POWERFUL AUTOWITHDRAWAL BOT, I DONT WOTK ON MULTISIG WALLET
 
 
 **TELEGRAM: @Oscar_load**
